@@ -1,271 +1,253 @@
-Create a complete GitHub profile README.md for me in the same professional style and structure as this GitHub profile: https://github.com/ziauldin
+# Web Developer & Frontend Developer | Building Clean Digital Experiences
 
-Do not copy his personal content. Only follow the same layout, formatting style, section order, badge style, and professional presentation.
+<h1 align="center">👨‍💻 Shoaib Ul Din</h1>
 
-Use Markdown format only and generate the complete README.md code.
+<h3 align="center">
+  <em>Web Development • Frontend Development • E Commerce Systems • AI Chatbot Project</em>
+</h3>
 
-Personal Information:
-Name: Shoaib Ul Din
-Email: Mshoaibawan371@gmail.com
-LinkedIn: https://www.linkedin.com/in/shoaib-ul-din
-GitHub: https://github.com/shoaibuldin371
-Location: Islamabad, Pakistan
+<p align="center">
+  <a href="https://www.linkedin.com/in/shoaib-ul-din">
+    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Mshoaibawan371@gmail.com">
+    <img src="https://img.shields.io/badge/SEND%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shoaibuldin371">
+    <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-FF5A5F?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/shoaibuldin371">
+    <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Main Profile Title:
-Web Developer | Frontend Developer | Computer Science Graduate
+---
 
-Important:
-Do not write “E Commerce Chatbot Developer” as my main title.
-The AI Powered E Commerce Chatbot is my Final Year Project, not my job title.
-Do not mention video editing.
-Do not mention Facebook, Upwork, Fiverr, or third party clients.
+## 👨‍💻 About Me
 
-Top Section Style:
-Create a top profile section similar to the reference profile.
+> "Building simple, useful, and user focused web experiences."
 
-Use:
-Main heading with my name:
-Shoaib Ul Din
+I am a **Computer Science graduate** based in **Islamabad, Pakistan**, with practical experience in **web development, frontend development, e commerce systems, and AI based chatbot development through my academic project**.
 
-Subtitle line:
-Web Development • Frontend Development • E Commerce Systems • AI Chatbot Project
+My Final Year Project was an **AI Powered E Commerce Chatbot** integrated into a custom online store. The project focused on improving **product search, customer query understanding, product discovery, recommendation logic, and online shopping user experience**.
 
-Add professional button style links at the top:
-CONNECT ON LINKEDIN
-SEND EMAIL
-VIEW PORTFOLIO
-FOLLOW ON GITHUB
+I am interested in **frontend development, web development, e commerce platforms, chatbot integration, and entry level software development opportunities**.
 
-Button Links:
-CONNECT ON LINKEDIN should link to: https://www.linkedin.com/in/shoaib-ul-din
-SEND EMAIL should link to: mailto:Mshoaibawan371@gmail.com
-VIEW PORTFOLIO should link to: https://github.com/shoaibuldin371
-FOLLOW ON GITHUB should link to: https://github.com/shoaibuldin371
+### 🎯 Core Competencies
 
-Use badge style buttons similar to the reference profile.
+- Frontend Web Development
+- Responsive UI Development
+- HTML, CSS, and JavaScript
+- Next.js Development
+- Python Programming Basics
+- AI Chatbot Development
+- NLP Based Query Understanding
+- E Commerce Product Search Logic
+- Product Recommendation Logic
+- Dataset Handling
+- Google Colab Based Model Training
+- User Experience Improvement
+- Final Year Project Documentation
 
-README Structure:
-Use this exact section order:
+---
 
-1. About Me
-2. Core Competencies
-3. Tech Stack & Expertise
-4. Featured Projects
-5. GitHub Analytics
-6. Professional Experience
-7. What I’m Currently Working On
-8. Learning Journey
-9. Let’s Collaborate
-10. Fun Facts & Interests
-11. Closing quote and profile visitor counter
+## 🛠️ Tech Stack & Expertise
 
-About Me:
-Write in a professional style.
+### 🌐 Frontend Development
 
-Use this information:
-I am a Computer Science graduate based in Islamabad, Pakistan, with practical experience in web development, frontend development, e commerce systems, and AI based chatbot development through my academic project.
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
-My Final Year Project was an AI Powered E Commerce Chatbot integrated into a custom online store. The project focused on improving product search, customer query understanding, product discovery, recommendation logic, and online shopping user experience.
+### 🧩 Programming & Tools
 
-I am interested in frontend development, web development, e commerce platforms, chatbot integration, and entry level software development opportunities.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+</p>
 
-Core Competencies:
-Write this section in bullet style similar to the reference profile.
+### 🤖 AI, NLP & Chatbot Development
 
-Use these:
-Frontend Web Development
-Responsive UI Development
-HTML, CSS, and JavaScript
-Next.js Development
-Python Programming Basics
-AI Chatbot Development
-NLP Based Query Understanding
-E Commerce Product Search Logic
-Product Recommendation Logic
-Dataset Handling
-Google Colab Based Model Training
-User Experience Improvement
-Final Year Project Documentation
+<p>
+  <img src="https://img.shields.io/badge/NLP%20Basics-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chatbot%20Development-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dataset%20Handling-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Query%20Understanding-0A66C2?style=for-the-badge" />
+</p>
 
-Tech Stack & Expertise:
-Create subsections like the reference profile.
+### 🛒 E Commerce Systems
 
-Subsections:
-Frontend Development
-Programming & Tools
-AI, NLP & Chatbot Development
-E Commerce Systems
+<p>
+  <img src="https://img.shields.io/badge/E%20Commerce-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product%20Search%20Logic-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Recommendation%20Logic-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/User%20Experience-20B2AA?style=for-the-badge" />
+</p>
 
-Use clean badges for each skill.
+---
 
-Frontend Development Badges:
-HTML
-CSS
-JavaScript
-Next.js
+## 🚀 Featured Projects
 
-Programming & Tools Badges:
-Python
-GitHub
-VS Code
-Google Colab
+### 🛒 AI Powered E Commerce Chatbot
 
-AI, NLP & Chatbot Development Badges:
-NLP Basics
-Chatbot Development
-Dataset Handling
-Query Understanding
+<p>
+  <img src="https://img.shields.io/badge/Final%20Year%20Project-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+</p>
 
-E Commerce Systems Badges:
-E Commerce
-Product Search Logic
-Recommendation Logic
-User Experience
-
-Featured Projects:
-Add this project in the same style as the reference profile.
-
-Project Name:
-AI Powered E Commerce Chatbot
-
-Type:
-Final Year Project
-
-Duration:
-Oct 2025 to May 2026
-
-Tech Stack:
-Next.js, Python, NLP, Google Colab
-
-Project Description:
 An AI powered chatbot integrated into a custom online store. The system helps users search products through simple natural language queries instead of depending only on traditional filters.
 
+**Duration:** Oct 2025 to May 2026  
+**Type:** Final Year Project  
+**Focus:** E Commerce, NLP, Product Search, Chatbot Development, User Experience
+
 Example query:
-“black shoes under 2000”
 
-Project Highlights:
-Developed an AI Powered E Commerce Chatbot integrated into a custom online store.
-Built chatbot logic to understand natural language customer queries.
-Returned relevant product results based on category, color, and price range.
-Created a custom NLP model trained on the store product dataset using Google Colab.
-Improved product discovery by making search easier, faster, and more user friendly.
-Supported product recommendation logic to help users find suitable products.
-Applied web development, dataset preparation, NLP, chatbot integration, and e commerce concepts in a real academic project.
+> black shoes under 2000
 
-Add a second project card:
-Custom E Commerce Store Interface
+**Key Highlights**
 
-Description:
+- Developed an AI Powered E Commerce Chatbot integrated into a custom online store
+- Built chatbot logic to understand natural language customer queries
+- Returned relevant product results based on category, color, and price range
+- Created a custom NLP model trained on the store product dataset using Google Colab
+- Improved product discovery by making search easier, faster, and more user friendly
+- Supported product recommendation logic to help users find suitable products
+- Applied web development, dataset preparation, NLP, chatbot integration, and e commerce concepts in a real academic project
+
+### 🌐 Custom E Commerce Store Interface
+
+<p>
+  <img src="https://img.shields.io/badge/Frontend-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/E%20Commerce-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/User%20Interface-20B2AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product%20Discovery-6A5ACD?style=for-the-badge" />
+</p>
+
 A custom online store interface designed to support product browsing, product search, and chatbot based shopping assistance.
 
-Highlights:
-Built a web based e commerce interface for the Final Year Project.
-Worked on product display, search flow, and customer interaction.
-Connected chatbot functionality with the online shopping experience.
-Focused on making product discovery easier for users.
-Improved the user journey through simple query based search.
+**Key Highlights**
 
-GitHub Analytics:
-Add GitHub stats cards using username:
-shoaibuldin371
+- Built a web based e commerce interface for the Final Year Project
+- Worked on product display, search flow, and customer interaction
+- Connected chatbot functionality with the online shopping experience
+- Focused on making product discovery easier for users
+- Improved the user journey through simple query based search
 
-Use:
-GitHub Stats
-Top Languages
-GitHub Streak
-Use a clean theme such as tokyonight.
-Hide borders if possible.
+---
 
-Professional Experience:
-Do not add fake jobs.
-Create this section as “Professional Focus” instead of formal job experience.
+## 📊 GitHub Analytics
 
-Title:
-Web Development & Frontend Learning
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoaibuldin371&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-Description:
-I am currently focused on building stronger skills in frontend development, responsive design, e commerce interfaces, chatbot systems, and AI assisted user experiences.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibuldin371&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Main Areas:
-Responsive web pages using HTML, CSS, and JavaScript
-Frontend development using Next.js
-Clean and simple user interface design
-E commerce website structure and product search
-Chatbot integration with web applications
-Dataset based product recommendation logic
-GitHub based project presentation
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibuldin371&theme=tokyonight&hide_border=true" />
+</p>
 
-What I’m Currently Working On:
-Create a table similar to the reference profile.
+---
 
-Columns:
-Area
-Focus
-Status
+## 💼 Professional Experience
 
-Rows:
-Web Development | HTML, CSS, JavaScript, responsive layouts | In Progress
-Frontend Development | Next.js interfaces and UI improvement | In Progress
-E Commerce | Product search, product discovery, customer journey | In Progress
-AI & NLP | Chatbot logic, query understanding, dataset handling | Learning
-GitHub Portfolio | README files, documentation, project presentation | Active
+### 💻 Web Development & Frontend Learning
 
-Learning Journey:
-Create two subsections:
-Currently Learning
-Next Goals
+**Computer Science Graduate | Islamabad, Pakistan | 2022 - 2026**
 
-Currently Learning:
-Advanced HTML and CSS
-JavaScript project development
-Next.js development
-Responsive web design
-UI and UX basics
-API integration
-Chatbot integration
-E commerce web development
-Git and GitHub workflows
+- Built academic level web interfaces using HTML, CSS, JavaScript, and Next.js
+- Worked on a Final Year Project focused on e commerce, chatbot integration, and user experience
+- Developed understanding of frontend structure, product search flow, and customer query handling
+- Applied Python, NLP basics, Google Colab, and dataset handling in chatbot related project work
+- Focused on clean interface design, simple user journeys, and practical project documentation
 
-Next Goals:
-Build more frontend projects
-Improve portfolio presentation
-Publish Final Year Project properly on GitHub
-Learn API integration in real web apps
-Improve UI design and project documentation
+### 🎓 Education
 
-Let’s Collaborate:
-Write in the same style as the reference profile.
+**University of Education Lahore, Jauharabad Campus**  
+**Bachelor of Science in Computer Science**  
+**Duration:** 2022 to 2026  
+**CGPA:** 2.53/4.00  
+**Location:** Jauharabad, Pakistan
 
-Text:
-I am open to learning opportunities, internships, beginner friendly collaborations, and entry level roles related to web development, frontend development, e commerce systems, and chatbot based projects.
+---
 
-Add buttons:
-SEND EMAIL
-CONNECT ON LINKEDIN
-FOLLOW ON GITHUB
+## 🔭 What I'm Currently Working On
 
-Fun Facts & Interests:
-Use this line:
+| Project / Area | Status | Tech Stack / Focus |
+|---|---|---|
+| Web Development Practice | In Progress | HTML, CSS, JavaScript |
+| Frontend UI Improvement | In Progress | Next.js, Responsive Design |
+| E Commerce Project Presentation | Active | Product Search, Product Discovery |
+| AI Chatbot Logic | Learning | NLP Basics, Query Understanding |
+| GitHub Portfolio | Active | README, Documentation, Project Showcase |
+
+---
+
+## 📚 Learning Journey
+
+### 🎯 Currently Learning
+
+- Advanced HTML and CSS
+- JavaScript project development
+- Next.js development
+- Responsive web design
+- UI and UX basics
+- API integration
+- Chatbot integration
+- E commerce web development
+- Git and GitHub workflows
+
+### 🚀 Next Goals
+
+- Build more frontend projects
+- Improve portfolio presentation
+- Publish Final Year Project properly on GitHub
+- Learn API integration in real web apps
+- Improve UI design and project documentation
+
+---
+
+## 🤝 Let's Collaborate!
+
+### 💡 Open to learning and entry level opportunities
+
+I am open to internships, beginner friendly collaborations, and entry level roles related to **web development, frontend development, e commerce systems, and chatbot based projects**.
+
+<p align="center">
+  <a href="mailto:Mshoaibawan371@gmail.com">
+    <img src="https://img.shields.io/badge/SEND%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shoaib-ul-din">
+    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shoaibuldin371">
+    <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun Facts & Interests
+
 Web Development | Frontend Development | E Commerce | AI Chatbots | UI Design | Product Search Systems
 
-Closing Quote:
-Use this quote:
-“Simple web experiences become powerful when they solve real user problems.”
+---
 
-Add a profile visitor counter using username:
-shoaibuldin371
+<p align="center">
+  <em>"Simple web experiences become powerful when they solve real user problems."</em>
+</p>
 
-Style Requirements:
-Make the README visually close to the reference profile.
-Use clean headings.
-Use badge style buttons.
-Use emojis lightly like the reference profile.
-Use professional but simple English.
-Keep it polished and not too crowded.
-Do not exaggerate.
-Do not add fake achievements.
-Do not mention video editing.
-Do not mention freelancing platforms.
-Do not call me an E Commerce Chatbot Developer in the main title.
-Show the E Commerce Chatbot only as my Final Year Project.
-Generate complete README.md code only.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shoaibuldin371&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+</p>
