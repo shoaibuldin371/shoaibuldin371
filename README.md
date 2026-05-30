@@ -3,7 +3,7 @@
 <h1 align="center">👨‍💻 Shoaib Ul Din</h1>
 
 <h3 align="center">
-  <em>Web Development • Frontend Development • E Commerce Systems • AI Chatbot Project</em>
+  <em>Full Stack Web Development  • E Commerce Systems • AI Chatbot Project</em>
 </h3>
 
 <p align="center">
