@@ -1,4 +1,4 @@
-# Web Developer & Frontend Developer | Building Clean Digital Experiences
+# Full Stack Web Developer | Building Clean Digital Experiences
 
 <h1 align="center">👨‍💻 Shoaib Ul Din</h1>
 
